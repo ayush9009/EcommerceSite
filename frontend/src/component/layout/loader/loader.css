@@ -1,0 +1,32 @@
+/* ye styling tab show jab loading hori hogi matlb time lage na kahi bar data load hone mai to ye uske liye */
+.loading {
+    width: 100vw;  
+    /* puri width aur height leli  */
+    height: 100vh;
+    background-color: white;
+
+    display: grid;
+    place-items: center;
+    /* cneter mai hi show hoga sirf */
+    max-width: 100%;
+  }
+  
+  .loading > div {
+    width: 10vmax;
+    height: 10vmax;
+    border-bottom: 5px solid rgba(0, 0, 0, 0.719); 
+    /* sabse pahle to uska rang roop design karrai is upr vali line se ek line bn jagi is cloro ki */
+  
+    border-radius: 50%;
+    /* ab vo gol bn jaga */
+  
+    animation: loadingRotate 800ms linear infinite;
+    /* ab vo semicircle rotate karega infinite times kai liye kai */
+  }
+  
+  @keyframes loadingRotate {
+    to {
+      transform: rotateZ(-360deg);   
+      /* kaise rotatemkarege */
+    }
+  }
