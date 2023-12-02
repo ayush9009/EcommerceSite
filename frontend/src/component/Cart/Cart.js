@@ -1,4 +1,4 @@
-import React, { Fragment } from "react"
+import React, { Fragment } from "react";
 import "./Cart.css";
 import CartItemCard from "./CartItemCard.js";
 import { useSelector, useDispatch } from "react-redux";
