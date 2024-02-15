@@ -1,13 +1,12 @@
 # EcommerceSite
 
+https://youtu.be/Rz3abfXmm7w
 
 ![Screenshot (225)](https://user-images.githubusercontent.com/97290036/236849721-ddd86e18-0e73-4987-a45d-7703a30475e3.png)
 
 ![Screenshot (226)](https://user-images.githubusercontent.com/97290036/236849738-823d528b-c0fc-4d07-8f04-c4d5a88cbe7b.png)
 
 ![Screenshot (227)](https://user-images.githubusercontent.com/97290036/236849749-5add226c-568e-45bf-b3ef-97b2d546594d.png)
-
-![Screenshot (228)](https://user-images.githubusercontent.com/97290036/236849761-26db5685-e54f-4e8a-ab34-4c043a895ecc.png)
 
 ![Screenshot (229)](https://user-images.githubusercontent.com/97290036/236849781-7e4303ce-98ae-48d5-984c-588ac3504940.png)
 
