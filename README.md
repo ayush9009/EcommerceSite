@@ -1,6 +1,10 @@
 # EcommerceSite
 
-https://youtu.be/Rz3abfXmm7w
+
+https://github.com/ayush9009/EcommerceSite/assets/97290036/a2123a59-1dc1-44c6-bbc6-3f3f2259d26a
+
+
+
 
 ![Screenshot (225)](https://user-images.githubusercontent.com/97290036/236849721-ddd86e18-0e73-4987-a45d-7703a30475e3.png)
 
