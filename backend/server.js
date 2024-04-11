@@ -3,7 +3,7 @@ const app=require('./app');
 const dotenv=require("dotenv");
 const cloudinary=require("cloudinary");
 const connectDatabase=require("./config/database");
-// const { connect } = require('http2');
+// const { connect } = require('http2')
 
 
 //Handling uncaught exception
