@@ -1,4 +1,4 @@
-# EcommerceSite
+# EcommerceWebsite
 
 
 https://github.com/ayush9009/EcommerceSite/assets/97290036/a2123a59-1dc1-44c6-bbc6-3f3f2259d26a
